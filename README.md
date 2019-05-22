@@ -1,7 +1,8 @@
 # rock-and-mine-problem
 deep learning neural network basics implementation using tensorflow
-import the modules
-read the data set
+# steps used
+/nimport the modules
+/nread the data set
 Inspect the shape of training and testing
 define the model
 Define the weights and biases for each layer of the model
